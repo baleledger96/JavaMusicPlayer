@@ -1,0 +1,4 @@
+This is a simple text file which will be updated to mention the working of the Java music player.
+
+Right now it is in development stage and you can switch to master branch to see the latest changes.
+Update1: Only a basic window has been created till now with file choosing capability.
