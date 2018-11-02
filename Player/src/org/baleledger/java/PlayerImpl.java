@@ -13,7 +13,7 @@ import sun.audio.*;
 public class PlayerImpl{
 
 	public void Play(File file) {
-		System.out.println("Made in eclipse..");
+		System.out.println("Eclipse Music Player!!");
 		
 	}
 
