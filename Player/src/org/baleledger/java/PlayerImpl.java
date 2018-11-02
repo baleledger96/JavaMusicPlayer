@@ -14,12 +14,8 @@ public class PlayerImpl implements IGuiLook{
 
 	@Override
 	public void Play(File file) {
-<<<<<<< Updated upstream
+		System.out.println("Made in eclipse");
 		
-=======
->>>>>>> Stashed changes
-		
-		System.out.println("Processing the MP3 file : "+file.getName());
 	}
 
 	@Override
