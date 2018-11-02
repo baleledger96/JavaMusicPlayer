@@ -10,21 +10,18 @@ import javax.sound.sampled.LineUnavailableException;
 import javax.sound.sampled.UnsupportedAudioFileException;
 import sun.audio.*;
 
-public class PlayerImpl implements IGuiLook{
+public class PlayerImpl{
 
-	@Override
 	public void Play(File file) {
-		System.out.println("Made in eclipse");
+		System.out.println("Made in eclipse..");
 		
 	}
 
-	@Override
 	public void Stop() {
 		
 		
 	}
 
-	@Override
 	public void Repeat() {
 	
 		
