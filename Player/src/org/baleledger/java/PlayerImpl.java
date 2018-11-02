@@ -14,7 +14,7 @@ public class PlayerImpl implements IGuiLook{
 
 	@Override
 	public void Play(File file) {
-		
+		System.out.println("Made in eclipse");
 		
 	}
 
